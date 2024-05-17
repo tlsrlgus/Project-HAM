@@ -1,1 +1,2 @@
-# Project-HAM(HTML based Artificial intelligence Model)
+# Project-HAM
+Project HAM (HTML based Artificial intelligence Model)
