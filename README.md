@@ -1,6 +1,6 @@
 # Project HAM
 
-Project HAM은 HTML, CSS, JavaScript를 활용하여 베스킨라빈스 31 게임을 강화학습 인공지능 모델로 구현한 프로젝트입니다. Web API의 local storage를 활용하여 학습 데이터를 저장하며, 자기 학습을 통해 점점 더 나은 전략을 구사하는 인공지능을 개발하는 것을 목표로 합니다.
+Project HAM(HTML based Artificial intelligence Model)은 HTML, CSS, JavaScript를 활용하여 베스킨라빈스 31 게임을 강화학습 인공지능 모델로 구현한 프로젝트입니다. Web API의 local storage를 활용하여 학습 데이터를 저장하며, 자기 학습을 통해 점점 더 나은 전략을 구사하는 인공지능을 개발하는 것을 목표로 합니다.
 
 ## 어떻게 학습되나요? (학습 알고리즘)
 
