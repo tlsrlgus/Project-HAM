@@ -4,7 +4,7 @@ Project HAM(HTML based Artificial intelligence Model)은 HTML, CSS, JavaScript�
 
 ## 어떻게 학습되나요? (학습 알고리즘)
 
-HTML 기반 인공지능 모델(HAM)은 JavaScript의 난수 생성을 이용하여 학습합니다. 두 개의 난수 생성자(난수 생성자 1과 난수 생성자 2)가 베스킨라빈스 31 게임(31게임)의 규칙에 따라 난수를 생성합니다. 게임이 끝날 때마다 난수 생성자 2의 행동을 local storage에 다음과 같은 방식으로 저장합니다:
+HAM(HTML based Artificial intelligence Model)은 JavaScript의 난수 생성을 이용하여 학습합니다. 두 개의 난수 생성자(난수 생성자 1과 난수 생성자 2)가 베스킨라빈스 31 게임(31게임)의 규칙에 따라 난수를 생성합니다. 게임이 끝날 때마다 난수 생성자 2의 행동을 local storage에 다음과 같은 방식으로 저장합니다:
 
 - 형식: `TurnX_TotalNumY_R_Z`
   - X: 차례
