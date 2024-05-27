@@ -12,7 +12,7 @@ function phaseTwoStart() {
     currentPhase = 2
     turnAlert.innerText = "AI가 생각중입니다"
     currentNumberDisplay.innerText = `현재 페이즈: ${currentPhase} \n현재 수: ${currentNumber}`
-    setTimeout(phaseTwoGame, 1000)
+    setTimeout(phaseTwoGame, 2000)
 
 
 
