@@ -14,4 +14,11 @@ HAM(HTML based Artificial intelligence Model)은 JavaScript의 난수 생성을 
 
 이를 통해 어떤 수를 어떤 차례에 내야 승리할 수 있는가에 대한 데이터를 쌓습니다.
 
+
+
+## 참고
+
+고등학교 동아리 엑스포에서 사용하기 위해 승률이 매우 높은 정해진 규칙에 따라 행동하는 코드가 포함되어 있습니다.
+완전한 순정 HAM(HTML based Artificial intelligence Model)을 사용하려면 페이즈 2 관련 코드를 모두 삭제하시면 됩니다.
+
 ---
